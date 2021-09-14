@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="what_is_your_guess">What is your Guess?</string>
+    <string name="guess_a_number_between_1_and_20">Guess a number between 1 and 20?</string>
+    <string name="guess">Guess</string>
+    <string name="guess_a_number_between_0_and_20">Guess a number between 0 and 20</string>
+</resources>
